@@ -8,10 +8,10 @@ def main():
         desc=a*.10
         sueldo=a+desc
     elif(b==3):
-        desc=a*.8
+        desc=a*.08
         sueldo=a+desc
     elif(b==4):
-        desc=a*.7
+        desc=a*.07
         sueldo=a+desc
     print("Aumento: "+str(desc)+" Sueldo Total: "+str(sueldo))
 if __name__ == "__main__":
